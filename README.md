@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krrishpuri
 - 👀 I’m interested in Software davelopment
 - 🌱 I’m currently learning Data structures using c ,PHP and Database management
-- 💞️ I'm currently a BCA(2nd sem) student
+- 💞️ I'm currently a BCA(3rd sem) student
 - 📫 Interested person can reach me on purikrrish@gmail.com
 
 <!---
