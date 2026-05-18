@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @krrishpuri
-- 👀 I’m interested in Software davelopment
-- 🌱 I’m currently learning Data structures using c ,PHP and Database management
-- 💞️ I'm currently a BCA(3rd sem) student
-- 📫 Interested person can reach me on purikrrish@gmail.com
+# Hi, I'm Krrish 👋
 
-<!---
-krrishpuri/krrishpuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer passionate about React.js and modern web development.
+
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Git & GitHub
+
+## 📌 Projects
+- Movie App using TMDB API
+- Portfolio Website
+- Fullstack CRUD App
+
+## 🌐 Connect With Me
+- LinkedIn: your-link
+- Portfolio: your-link
